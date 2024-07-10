@@ -1,0 +1,19 @@
+.principalTitle{
+    color: grey;
+}
+.subtitle{
+    color: black;
+}
+.lastSentence{
+    color: rgba(128, 128, 128, 0.525);
+    width: 480px;
+    text-align: center;
+    
+}
+.center{
+    width: 800px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
