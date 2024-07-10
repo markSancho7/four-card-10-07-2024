@@ -3,7 +3,7 @@ const Title = () => {
 	return (
 		<div className={style.center}>
 			<h1 className={style.principalTitle}>Reliable, efficient delivery</h1>
-			<h2>Powered by Technology</h2>
+			<h2 className={style.subtitle}>Powered by Technology</h2>
 			<p className={style.lastSentence}>
 				Our ARtufucual intelligence powered tools use millions of project data
 				points to ensure that your project is successful

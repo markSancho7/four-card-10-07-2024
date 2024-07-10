@@ -6,7 +6,8 @@
     padding-top: 20px;
     padding-inline: 30px;
     border-radius: 10px;
-    box-shadow: 0px 10px 10px 1px grey;
+    box-shadow: 0px 6px 12px 0px rgba(128, 128, 128, 0.304);
+    margin: 20px;
 }
 .cardImg{
     margin-left: 210px;
